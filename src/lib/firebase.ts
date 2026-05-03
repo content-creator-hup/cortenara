@@ -7,12 +7,12 @@ import { getFirestore } from "firebase/firestore";
 // Project Settings → Your apps → firebaseConfig
 // =============================================
 const firebaseConfig = {
-  apiKey: "PASTE_YOUR_API_KEY_HERE",
-  authDomain: "PASTE_YOUR_AUTH_DOMAIN_HERE",
-  projectId: "PASTE_YOUR_PROJECT_ID_HERE",
-  storageBucket: "PASTE_YOUR_STORAGE_BUCKET_HERE",
-  messagingSenderId: "PASTE_YOUR_MESSAGING_SENDER_ID_HERE",
-  appId: "PASTE_YOUR_APP_ID_HERE",
+  apiKey: "AIzaSyBcMdPvkE4XxZmuuVlVLBDtvye0RdlURoU",
+  authDomain: "cortenara-9d0cf.firebaseapp.com",
+  projectId: "cortenara-9d0cf",
+  storageBucket: "cortenara-9d0cf.firebasestorage.app",
+  messagingSenderId: "722283269564",
+  appId: "1:722283269564:web:8ac6c14dbcc33f15fa6fb9",
 };
 // =============================================
 
